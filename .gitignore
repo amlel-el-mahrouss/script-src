@@ -633,7 +633,3 @@ FodyWeavers.xsd
 
 # End of https://www.toptal.com/developers/gitignore/api/c++,visualstudio,csharp
 
-*.vcxproj
-*.filters
-*.sln
-*.vcproj
